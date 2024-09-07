@@ -1,0 +1,8 @@
+The purpose of the project is to predict the clusters for reviews for the Spotify App.
+  
+Here you will find:
+-Data cleaning and preprocessing
+-EDA
+-Feature engineering using(TF-IDF, Lemmatization, BOW with N grams
+-Dimensionality reduction with PCA
+-Unsupervised ML algorithms: Gaussian Mixture Models and LDA
